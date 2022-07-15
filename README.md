@@ -1,5 +1,5 @@
 # Codewars Tasks
-##### _Total completed: 93_
+##### _Total completed: 94_
 ![N|Solid](https://www.codewars.com/users/Whicencer/badges/large)
 
 ##### 1. [Math Basic Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
@@ -13,3 +13,4 @@
 ##### 9. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 ##### 10. [Strong Number (Special Numbers Series #2)](https://www.codewars.com/kata/5a4d303f880385399b000001)
 ##### 11. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+##### 12. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
