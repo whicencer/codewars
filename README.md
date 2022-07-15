@@ -8,7 +8,7 @@
 ##### 4. [Hex To Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d)
 ##### 5. [Is Integer Array?](https://www.codewars.com/kata/52a112d9488f506ae7000b95)
 ##### 6. [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
-##### 7. It's my own task
+##### 7. It's my own task (we need to find two numbers, that occur most often)
 ##### 8. [Second largest in Array](https://www.codewars.com/kata/578fe7e2149935740f000525)
 ##### 9. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 ##### 10. [Strong Number (Special Numbers Series #2)](https://www.codewars.com/kata/5a4d303f880385399b000001)
