@@ -1,0 +1,1 @@
+hexToDec=a=>parseInt(a, 16);

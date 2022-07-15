@@ -1,0 +1,1 @@
+const secondLargest = arr => arr === null || typeof arr === 'string' || arr.filter(el => el === arr[0]).length === arr.length ? undefined : arr.filter(el => /\d/.test(el)).map(Number).sort((a,b) => b-a)[1];
