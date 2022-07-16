@@ -15,3 +15,4 @@
 ##### 11. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 ##### 12. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 ##### 13. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+##### 13. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
