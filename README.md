@@ -1,5 +1,5 @@
 # Codewars Tasks
-##### _Total completed: 94_
+##### _Total completed: 105_
 ![N|Solid](https://www.codewars.com/users/Whicencer/badges/large)
 
 ##### 1. [Math Basic Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
