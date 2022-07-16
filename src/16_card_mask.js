@@ -1,0 +1,1 @@
+maskify=(cc)=>`${cc.replace(/\w/g,'#').substring(0, cc.length-4)}${cc.substring(cc.length-4, cc.length)}`

@@ -17,3 +17,4 @@
 ##### 13. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 ##### 14. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 ##### 15. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+##### 16. [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
